@@ -1,0 +1,21 @@
+.header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+    color: blanchedalmond;
+    background-color: coral;
+}
+
+
+body {
+    background-color:rgb(81, 37, 30)
+}
+
+p {
+    color: rgb(74, 28, 20);
+    font: 800px;
+    font-size: larger;
+    text-decoration: underline;
+    font-weight:bolder;
+}
+
