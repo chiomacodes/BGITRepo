@@ -1,0 +1,38 @@
+Live Assessment (File Questions)
+
+Answer 1: HMTL serves as a skeleton for web development. It helps developers to build websites that can be replicated and uniquely created.
+
+Answer 2: The basic structure of an HTML document consists of opening and closing <tags> in the following order:
+
+<html> - This tag is an opening tag which is paired with a closing </html> tag at the end of the document. It declares the start of the project's content. However, for this tag to be successfully established, you would lead it with the <!DOCTYPE HTML> tag which tells your computer what type of file you're trying to create.
+
+<head> - This opening tag is also paired with a closing </head> tag at the end of its content. This tag usually contains the <header>, <title> and various <link> tags to other file types you may want to add in the future (CSS, Bootstrap, JS, etc.)
+<body> - This opening tag contains the entirety of the webpage content. Within this opening tag, you add everything you want your webpage to consists of, defining the shape, style and structure of your webpage.
+
+All three of these tags are referred to as opening tags, as they are all paired with their closing tag counterparts, </html>, </head> and </body>. It's importatnt to note that the </html> tag is placed at the very end of the document. Without these closing tags, their contents are not rendered.
+
+Answer 3: CSS is an acronym for Cascading Style Sheets and defines how a webpage looks and feels to the user. It has the ability to change the font, background colour, weight and design of the webpage and is essential in helping webpages to stand out (or blend in) in their own way.
+
+
+Answer 4: CSS selectors are what help a developer customise certain elements of their webpage. Its structure consists of the element's name, followed by a bracket of curly braces. Within these curly braces, you can be specific about, for example, the element's font, size and style. The CSS color property is particularly significant because it enrichens the relationship between the user and the screen. In certain selectors, it also uses the semicolon as a closing tag equivalent to verify the content. Two examples of this can be seen below:
+
+("Type selector")
+
+ h1 {
+color: red
+}
+
+("Class selector")
+
+.box {
+display: flex;
+color: blue;
+}
+
+
+Answer 5: The CSS Box Model consists of content, padding, margin and border (from the inside out).
+Content is essentially your text and what you want the user to see on the webpage.
+Padding is the space around your content.
+Margin is the space around the element itself, in relation to the other elements around it.
+Border is the line (e.g thin, thick or none) that closely outlines your element, almost like a picture frame.
+ The width and height can be changed either using pixels or pencentages, depending on the type of values you are working with.
