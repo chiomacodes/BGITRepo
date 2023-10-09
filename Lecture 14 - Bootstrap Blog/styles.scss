@@ -1,0 +1,54 @@
+:root {
+    $primary-color: rgb(103, 169, 113);
+    font-family: sans-serif;
+}
+.jumbotron {
+    justify-content: center;
+    text-align: center;
+    background-color: lightblue;
+    color: whitesmoke;
+}
+.page-header {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body-1 {
+    background-color: pink;
+    color:rgb(240, 246, 250);
+}
+    .card-body-2 {
+        background-color: rgb(209, 116, 131);
+        color:rgb(240, 246, 250);
+        justify-content: center;
+}
+.card-body-3 {
+    background-color: rgb(110, 182, 102);
+    color:rgb(240, 246, 250);
+}
+
+.card-body-4 {
+    background-color: rgb(118, 158, 205);
+    color:rgb(240, 246, 250);
+    justify-content: flex-end;
+}
+
+.card-body-5 {
+    background-color: rgb(187, 141, 204);
+    color:rgb(240, 246, 250);
+}
+
+.card-body-6 {
+    background-color: lightblue;
+    color:rgb(240, 246, 250);
+}
+
+.btn-primary {
+    background: transparent;
+}
+
+.footer {
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}

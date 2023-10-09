@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(110, 174, 139);
+}
+
+.jumbotron {
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+background-color: rgb(239, 244, 245);
+justify-content: center;
+}
+
+.navbar {
+    justify-content: center;
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
